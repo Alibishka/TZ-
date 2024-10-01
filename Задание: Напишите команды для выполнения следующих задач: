@@ -1,0 +1,3 @@
+mkdir ~/devops_test 
+touch ~/devops_test/readme.txt
+pwd
